@@ -1,4 +1,5 @@
-# 🔐  **CRYPTIFY****SECURING YOUR DATA**
+# 🔐  **CRYPTIFY**
+## **SECURING YOUR DATA**
 
 ## 📌 Overview
 **Cryptify** is a powerful Python-based file encryption and decryption tool using **AES-256 (CBC mode)**.  
